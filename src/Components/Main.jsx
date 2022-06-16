@@ -7,7 +7,9 @@ const Main=()=>{
                 <div className="left-content">
                     <Card/>
                 </div>
-                <div className="right-content"></div>
+                <div className="right-content">
+                    
+                </div>
             </div>
         </>
     )

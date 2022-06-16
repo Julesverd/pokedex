@@ -4,7 +4,7 @@ const Card=()=>{
         <>
             <div className="card">
                 <h2>1</h2>
-                <img src=".img/charm.png" alt="" />
+                <img src="./imgages/charm.png" alt="" />
                 <h2>Charmander</h2>
             </div>
         </>
