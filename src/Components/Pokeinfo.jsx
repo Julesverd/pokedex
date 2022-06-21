@@ -1,14 +1,14 @@
 import React from "react";
 
 const Pokeinfo = ({ data }) => {
-   
+    console.log(data);
     return (
         <>
         {
             (!data) ? "" : (
                 <>
                     <h1>{data.name}</h1>
-                    <img src={`data.sprites.others.official-artwork.front_default`} alt="" />
+                    <img src={data.sprites.other["official-artwork"].front_default} alt="" />
                     <div className="abilities">
                         {
                             data.abilities.map(poke=>{
