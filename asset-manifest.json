@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jvpokedex_deployment/static/css/main.7b5fbdcb.css",
+    "main.js": "/jvpokedex_deployment/static/js/main.f965be1b.js",
+    "index.html": "/jvpokedex_deployment/index.html",
+    "main.7b5fbdcb.css.map": "/jvpokedex_deployment/static/css/main.7b5fbdcb.css.map",
+    "main.f965be1b.js.map": "/jvpokedex_deployment/static/js/main.f965be1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5fbdcb.css",
+    "static/js/main.f965be1b.js"
+  ]
+}
